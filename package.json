@@ -6,6 +6,9 @@
   "engines": {
     "vscode": "^1.90.0"
   },
+  "icon": "file-tree-context.png",
+  "repository": "https://github.com/ArmineZ/file-tree-context",
+  
   "author": "Armin Ašimović <https://x.com/ArminAsimovic>",
   "categories": [
     "Other"

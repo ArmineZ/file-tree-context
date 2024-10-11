@@ -17,7 +17,7 @@ By providing a snapshot of your project structure, this extension can enhance th
 
 ## Installation
 
-1. Install the extension from the Visual Studio Code Marketplace: [File Tree Context](#) (link to be updated upon publishing).
+1. Install the extension from the Visual Studio Code Marketplace: File Tree Context
 
 2. Reload or restart Visual Studio Code to activate the extension.
 
