@@ -1,0 +1,14 @@
+<FileTree>
+├── CHANGELOG.md
+├── esbuild.js
+├── eslint.config.mjs
+├── package-lock.json
+├── package.json
+├── README.md
+├── src
+│   ├── extension.ts
+│   └── test
+│       └── extension.test.ts
+├── tsconfig.json
+└── vsc-extension-quickstart.md
+</FileTree>
